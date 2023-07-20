@@ -1,13 +1,23 @@
 {
-  "name": "packages",
+  "name": "carrier",
   "version": "1.0.0",
-  "main": "touch.js",
-  "type": "module",
+  "description": "This package provides the Kenyan carrier details of a passed Kenyan Phone Number",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezratechdev/Carrier.git"
+  },
+  "keywords": [
+    "Carrier" , "Safaricom" , "isp" , "Telcom Kenya" , "Airtel Kenya" , "Kenya isps"
+  ],
+  "author": "EZRA",
   "license": "ISC",
-  "description": ""
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/ezratechdev/Carrier/issues"
+  },
+  "homepage": "https://github.com/ezratechdev/Carrier#readme"
 }
