@@ -1,6 +1,6 @@
 {
-  "name": "carrier",
-  "version": "1.0.0",
+  "name": "carrierdetails",
+  "version": "1.0.1",
   "description": "This package provides the Kenyan carrier details of a passed Kenyan Phone Number",
   "main": "index.js",
   "scripts": {

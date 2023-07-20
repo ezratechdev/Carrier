@@ -6,17 +6,17 @@ This is a basic package to get the carrier package of a Kenyan Phone Number.
 
 
 ```bash
-npm install
+npm install carrierdetails
 ```
 
 ```bash
-yarn add
+yarn add carrierdetails
 ```
 
 ## Usage
 
 ```javascript
-import Carrier from "carrier";
+import Carrier from "carrierdetails";
 ```
 
 ```javascript

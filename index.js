@@ -432,7 +432,7 @@ function NumberFormat(number){
 
 
 
-export default function Carrier(input){
+export default function CarrierDetails(input){
 
     let 
     number_data = NumberFormat(input),
